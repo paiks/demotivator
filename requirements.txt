@@ -31,7 +31,7 @@ python-crontab==2.4.0
 python-dateutil==2.8.1
 python-telegram-bot==12.4.2
 pytz==2019.3
-requests==2.7.0
+requests==2.20.0
 requests-futures==1.0.0
 schedule==0.6.0
 six==1.13.0
