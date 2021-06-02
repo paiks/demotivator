@@ -39,7 +39,7 @@ stem==1.8.0
 thesherlock==0.2.6
 tornado==6.0.3
 torrequest==0.1.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.10
 wrapt==1.11.2
 zope.interface==4.7.1
